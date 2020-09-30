@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "pert.4_vsga_demo1"
